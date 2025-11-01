@@ -22,7 +22,7 @@ mongoose.connect(process.env.MONGODB_URI)
 // --- 3. API Routes ---
 
 /**
- * [GET] /store-info
+ * [GET] /store-info hi hello
  * Fetches the existing information for a store. This route doesn't
  * need any changes; it will automatically return the new fields.
  */
